@@ -1,2 +1,2 @@
-# hc-sro4_filter
-Arduino library for hc-sro4 ultrassonic sensor
+# HC-SR04_filter
+Arduino library for HC-SR04 ultrassonic sensor.
